@@ -1,0 +1,74 @@
+﻿pathway,SYM
+Sensor/Initiator,ATF3
+Sensor/Initiator,ATF4
+Sensor/Initiator,ATF5
+Sensor/Initiator,DDIT3
+Sensor/Initiator,EIF2B2
+Sensor/Initiator,EIF2S1
+Sensor/Initiator,PPP1R15A
+Sensor/Initiator,EIF2AK4
+Sensor/Initiator,EIF2AK1
+Sensor/Initiator,NFE2L2
+Sensor/Initiator,EIF2AK3
+Sensor/Initiator,EIF2AK2
+ISR Activator,DELE1
+ISR Activator,GCN1
+ISR Activator,OMA1
+ISR Inhibitor,ADAR
+ISR Inhibitor,ADARB1
+ISR Inhibitor,KEAP1
+AA-Uptake/Biosynthesis,ASNS
+AA-Uptake/Biosynthesis,SLC6A9
+AA-Uptake/Biosynthesis,PSAT1
+Autophagy,BECN1
+Autophagy,ATG10
+Autophagy,ATG12
+Autophagy,ATG3
+Autophagy,ATG5
+Autophagy,ATG7
+Anti-Oxidant,ABCC1
+Anti-Oxidant,AIFM2
+Anti-Oxidant,GCLC
+Anti-Oxidant,GLRX
+Anti-Oxidant,GPX1
+Anti-Oxidant,GPX2
+Anti-Oxidant,GPX4
+Anti-Oxidant,GSTA1
+Anti-Oxidant,HMOX1
+Anti-Oxidant,NQO1
+Anti-Oxidant,PARL
+Anti-Oxidant,SLC7A11
+Anti-Oxidant,STARD7
+Anti-Oxidant,TXN
+Death Factors,BAD
+Death Factors,BAK1
+Death Factors,BAX
+Death Factors,BBC3
+Death Factors,BCL2L11
+Death Factors,BID
+Death Factors,BIK
+Death Factors,PMAIP1
+Death Factors,TNFRSF10B
+Survival Factors,BCL2
+Survival Factors,BCL2L1
+Survival Factors,BCL2L2
+Survival Factors,BIRC2
+Survival Factors,BIRC3
+Survival Factors,MCL1
+Survival Factors,XIAP
+Cytokines/Chemokines,ATF2
+Cytokines/Chemokines,CCL2
+Cytokines/Chemokines,CXCL3
+Cytokines/Chemokines,CXCL8
+Cytokines/Chemokines,FGF21
+Cytokines/Chemokines,FOS
+Cytokines/Chemokines,GDF15
+Cytokines/Chemokines,IL23A
+Cytokines/Chemokines,IL6
+Cytokines/Chemokines,JUN
+Cytokines/Chemokines,MAPK1
+Cytokines/Chemokines,NFKB1
+Cytokines/Chemokines,NFKB2
+Cytokines/Chemokines,SESN2
+Cytokines/Chemokines,TNF
+Cytokines/Chemokines,TNFSF10
