@@ -1,4 +1,4 @@
-# Bulk_RNA_Seq_Tutorial
+# bulk-rna-seq-tutorial
 
 This repository provides a complete **bulk RNA-sequencing analysis tutorial**, based on the code and data used for a poster presentation at the **22nd AAOT (Asian Academy of Orofacial Pain and Temporomandibular Disorder) Scientific Meeting**, held on **November 2–3, 2024, in Taipei, Taiwan**.
 
@@ -30,7 +30,7 @@ You can download this tutorial repository in two easy ways:
 If you're familiar with Git and want to clone this repository:
 
 ```bash
-git clone https://github.com/alexjoo-kang/Bulk_RNA_Seq_Tutorial.git
+git clone https://github.com/alexjoo-kang/bulk-rna-seq-tutorial.git
 ```
 
 > This will create a local copy of the project on your machine that you can update using Git.
