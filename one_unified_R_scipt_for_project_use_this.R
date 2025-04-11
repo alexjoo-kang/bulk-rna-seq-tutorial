@@ -555,8 +555,6 @@ tail(fg_df)
 topPathwaysUp <- fgseaRes[ES > 0][head(order(pval), n=10), pathway]
 topPathwaysDown <- fgseaRes[ES < 0][head(order(pval), n=10), pathway]
 topPathways <- c(topPathwaysUp, rev(topPathwaysDown))
-plotGseaTable(new_list[topPathways], lfc_vector, fgseaRes,
-              gseaParam = 1)
 
 ## adjusted p-value threshold setting ##
 test_path <- as.data.frame(f1[,1:2])
