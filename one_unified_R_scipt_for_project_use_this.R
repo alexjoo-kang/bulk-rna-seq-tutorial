@@ -803,7 +803,7 @@ plot_grid(p1, p2, p3, p4, p5, p6, p7, rel_heights = c(1, 1, 1))
 
 ## getting the reference for the heat map ##
 
-ref <- read.csv(file = "path/to/Adaptive_Extracellular_Mediated_Immunity_Genes.csv")
+ref <- read.csv(file = "path/to/inflammation_reference/for_heatmap/Adaptive_Extracellular_Mediated_Immunity_Genes.csv")
 
 ### You can use other datasets to explore gene expression in the selected dataset. Please read the README.md carefully for detailed instructions—especially regarding RAAS_Genes.csv, which includes NOX5 (a gene with two Ensembl IDs) ###
 
