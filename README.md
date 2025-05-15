@@ -116,7 +116,7 @@ Bulk_RNA_Seq_Tutorial/
 
 ## 📊 How to Run the Analysis
 
-Run the following script in R: one_unified_R_scipt_for_project_use_this.R
+Run the following script in RStudio: one_unified_R_scipt_for_project_use_this.R
 
 This script produces:
 - A volcano plot  
