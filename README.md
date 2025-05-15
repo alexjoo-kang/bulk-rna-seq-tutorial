@@ -20,7 +20,7 @@ I gratefully acknowledge the following contributors:
 
 📚 README.md Assistance
 
-    This README was written with the help of ChatGPT to improve clarity, formatting, and accessibility for researchers and learners new to bioinformatics.
+- This README was written with the help of ChatGPT to improve clarity, formatting, and accessibility for researchers and learners new to bioinformatics.
     
 ---
 
