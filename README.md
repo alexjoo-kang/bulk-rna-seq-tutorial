@@ -5,7 +5,23 @@ This repository provides a complete **bulk RNA-sequencing analysis tutorial**, b
 The study compares **Erosive Oral Lichen Planus (EOLP)** and **Non-erosive Oral Lichen Planus (NEOLP)**, as originally described in the following publication:  
 📄 [PubMed ID: 37555396](https://pubmed.ncbi.nlm.nih.gov/37555396/)
 
+---
 
+## 🙏 Acknowledgements
+
+I gratefully acknowledge the following contributors:
+
+- 👨‍🏫 **Prof. Man Seok Kim** (Co-PI)  
+- 👩‍🏫 **Prof. Hye-Ji Park** (Co-PI)  
+  > They supervised the research and poster presentation and **graciously permitted public sharing** of this repository and its contents to support the broader research and learning community.
+
+- 👨‍💻 **Jisu Jeong**  
+  > Contributed significantly to the code base and generously agreed to its public release.
+
+📚 README.md Assistance
+
+    This README was written with the help of ChatGPT to improve clarity, formatting, and accessibility for researchers and learners new to bioinformatics.
+    
 ---
 
 ## 📥 How to Download This Repository
@@ -246,19 +262,6 @@ The **final publication** in **PNAS 2024** added:
 📘 Official article: [PNAS DOI](https://www.pnas.org/doi/10.1073/pnas.2401968121)
 
 Use the updated gene list if you want full alignment with the final version.
-
----
-
-## 🙏 Acknowledgements
-
-I gratefully acknowledge the following contributors:
-
-- 👨‍🏫 **Prof. Man Seok Kim** (Co-PI)  
-- 👩‍🏫 **Prof. Hye-Ji Park** (Co-PI)  
-  > They supervised the research and poster presentation and **graciously permitted public sharing** of this repository and its contents to support the broader research and learning community.
-
-- 👨‍💻 **Jisu Jeong**  
-  > Contributed significantly to the code base and generously agreed to its public release.
 
 ---
 
