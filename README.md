@@ -154,7 +154,67 @@ Edit the `read.csv()` line in the script, and update grouping variables and heat
 
 ---
 
-## ❓ Frequently Asked Questions
+## 📈 Example Output Figures
+
+These figures are saved in the `resulting_figures/` directory.
+
+---
+
+### 🔥 Volcano Plot
+
+📄 [View Volcano Plot (PDF)](resulting_figures/volcano_plot_customized_size.pdf)
+
+* Displays log2 fold change vs. adjusted p-values.
+* Highlights differentially expressed genes between EOLP and NEOLP.
+
+---
+
+### 🧬 GO Enrichment Bar Plot
+
+📄 [View GO Enrichment Plot (PDF)](resulting_figures/go_enrichment_analysis_plot_custom_size.pdf)
+
+* Shows top enriched Gene Ontology (GO) terms using DEGs.
+* Helpful for interpreting biological function.
+
+---
+
+### 🎯 Lollipop Plot (fGSEA-based)
+
+📄 [View Lollipop Plot (PDF)](resulting_figures/lollipop_plot_based_on_fgsea_results_us_legal_size.pdf)
+
+* Summarizes fast GSEA enrichment across inflammation-related gene sets.
+* Based on curated pathways from `Inflammation_Genes_List.csv`.
+
+---
+
+### 🌡️ Z-score Heatmap
+
+📄 [View Heatmap (PDF)](resulting_figures/example_heatmap_plot.pdf)
+
+* Heatmap of inflammation-related genes across EOLP and NEOLP.
+* Uses z-score normalization for expression comparison.
+
+---
+
+## ⚠️ Special Case: NOX5 Gene Duplication
+
+### ❌ Unresolved Heatmap (with duplicated NOX5 columns)
+
+📄 [View Unresolved NOX5 Heatmap (PDF)](resulting_figures/special_case_please_focus_on_NADPH_Oxidase_column_NOX5_Gene/NOX5_Issue_Unresolved_Custom_Size.pdf)
+
+* Shows duplication caused by multiple ENSEMBL IDs for **NOX5**.
+* Visually misleading with two identical columns.
+
+### ✅ Resolved Heatmap (deduplicated NOX5)
+
+📄 [View Resolved NOX5 Heatmap (PDF)](resulting_figures/special_case_please_focus_on_NADPH_Oxidase_column_NOX5_Gene/NOX5_Issue_Resolved_Custom_Size.pdf)
+
+* Corrected version with NOX5 properly deduplicated.
+* Produces an accurate single column for each NOX5.
+
+---
+
+## ❓ Potential Frequently Asked Questions
 
 ### Q1: How do I use other gene sets for **heatmap** analysis?
 
