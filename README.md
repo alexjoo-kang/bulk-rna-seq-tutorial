@@ -116,11 +116,7 @@ Bulk_RNA_Seq_Tutorial/
 
 ## 📊 How to Run the Analysis
 
-Run the following script in R:
-
-```r
-source("one_unified_R_scipt_for_project_use_this.R")
-```
+Run the following script in R: one_unified_R_scipt_for_project_use_this.R
 
 This script produces:
 - A volcano plot  
@@ -182,7 +178,7 @@ These figures are saved in the `resulting_figures/` directory.
 
 📄 [View Lollipop Plot (PDF)](resulting_figures/lollipop_plot_based_on_fgsea_results_us_legal_size.pdf)
 
-* Summarizes fast GSEA enrichment across inflammation-related gene sets.
+* Summarizes fast GSEA results across inflammation-related gene sets.
 * Based on curated pathways from `Inflammation_Genes_List.csv`.
 
 ---
@@ -233,7 +229,7 @@ To switch:
 
 **Answer**:  
 There were 13 EOLP samples available. To balance group sizes, 13 NEOLP samples were selected from 27 total NEOLP samples.  
-This improves z-score comparison clarity, though different NEOLP sample selections may yield slightly different results.
+This improves z-score comparison clarity, though different NEOLP sample selections may yield different results.
 
 ---
 
@@ -255,7 +251,7 @@ Use the updated gene list if you want full alignment with the final version.
 
 ## 🙏 Acknowledgements
 
-We gratefully acknowledge the following contributors:
+I gratefully acknowledge the following contributors:
 
 - 👨‍🏫 **Prof. Man Seok Kim** (Co-PI)  
 - 👩‍🏫 **Prof. Hye-Ji Park** (Co-PI)  
