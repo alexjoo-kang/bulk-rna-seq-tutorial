@@ -92,7 +92,7 @@ Bulk_RNA_Seq_Tutorial/
 │       ├── NOX5_Issue_Resolved_Custom_Size.pdf
 │       └── NOX5_Issue_Unresolved_Custom_Size.pdf
 │
-└── one_unified_R_scipt_for_project_use_this.R     # Main analysis script (volcano, heatmap, etc.)
+└── one_unified_R_script_for_project_use_this.R     # Main analysis script (volcano, heatmap, etc.)
 ```
 
 ---
@@ -116,7 +116,7 @@ Bulk_RNA_Seq_Tutorial/
 
 ## 📊 How to Run the Analysis
 
-Run the following script in RStudio: one_unified_R_scipt_for_project_use_this.R
+Run the following script in RStudio: one_unified_R_script_for_project_use_this.R
 
 This script produces:
 - A volcano plot  
@@ -126,7 +126,7 @@ This script produces:
 
 ---
 
-## 📂 Gene Set Used for `one_unified_R_scipt_for_project_use_this.R`
+## 📂 Gene Set Used for `one_unified_R_script_for_project_use_this.R`
 
 The default gene set used for heatmap in the script is:
 ```
