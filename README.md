@@ -1,6 +1,6 @@
 # bulk-rna-seq-tutorial
 
-This repository provides a complete **bulk RNA-sequencing analysis tutorial**, based on the code and data used for a poster presentation at the **22nd AAOT (Asian Academy of Orofacial Pain and Temporomandibular Disorder) Scientific Meeting**, held on **November 2–3, 2024, in Taipei, Taiwan**.
+This repository provides a **bulk RNA-sequencing analysis tutorial**, based on the code and data used for a poster presentation at the **22nd AAOT (Asian Academy of Orofacial Pain and Temporomandibular Disorder) Scientific Meeting**, held on **November 2–3, 2024, in Taipei, Taiwan**.
 
 The study compares **Erosive Oral Lichen Planus (EOLP)** and **Non-erosive Oral Lichen Planus (NEOLP)**, as originally described in the following publication:  
 📄 [PubMed ID: 37555396](https://pubmed.ncbi.nlm.nih.gov/37555396/)
@@ -18,15 +18,15 @@ I gratefully acknowledge the following contributors:
 - 👨‍💻 **Jisu Jeong**  
   > Contributed significantly to the code base and generously agreed to its public release.
 
-📚 README.md Assistance
+- This repository was developed with substantial assistance from AI-based tools.  
+These tools were used to support code generation, documentation, and conceptual clarification, etc.
 
-- This README was written with the help of ChatGPT to improve clarity, formatting, and accessibility for researchers and learners new to bioinformatics.
     
 ---
 
 ## 📥 How to Download This Repository
 
-You can download this tutorial repository in two easy ways:
+You can download this tutorial repository in two ways:
 
 ---
 
@@ -271,4 +271,8 @@ Use the updated gene list if you want full alignment with the final version.
 
 We hope this resource helps you start your **bioinformatics and bulk RNA-seq journey** with clarity and confidence.
 
-Feel free to reach out with feedback or questions!
+## Important Note
+
+This repository may contain errors. If you discover any issues, please contact alexkang1014@naver.com or alex.kang1014@outlook.com.
+
+Please feel free to reach out with feedback or questions!
